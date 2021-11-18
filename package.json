@@ -34,7 +34,7 @@
   "author": "lizheming",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.6",
+    "react": "^17",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
